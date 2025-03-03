@@ -15,21 +15,21 @@
 let list_initfetch () : unit =
   Printf.printf
 {|
-List init logos:\n
-systemd:\n
-%s\n
-systemdtext:\n
-%s\n
-systemdtextlogo:\n
-%s\n\n
-runit:\n
-%s\n
-openrc:\n
-%s\n
-sysvinit:\n
-%s\n
-bsdinit:\n
-%s\n\n
+List init logos:
+systemd:
+%s
+systemdtext:
+%s
+systemdtextlogo:
+%s
+runit:
+%s
+openrc:
+%s
+sysvinit:
+%s
+bsdinit:
+%s
 |}
   Logoinit.systemdlogo
   Logoinit.systemdtext

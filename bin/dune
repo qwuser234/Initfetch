@@ -1,0 +1,4 @@
+(executable
+ (public_name initfetch)
+ (name main)
+ (libraries initfetch minicli))

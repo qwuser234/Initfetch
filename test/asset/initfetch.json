@@ -1,0 +1,11 @@
+{
+  "Init": "systemd",
+  "Color": [
+    { "init": "red"   },
+    { "ver" : "blue"  },
+    { "time": "yellow"},
+    { "mem" : "green" },
+    { "ncp" : "pink"  }
+  ],
+  "tilda": "~"
+}

@@ -1,0 +1,3 @@
+(library
+ (name initfetch)
+ (libraries str unix))

@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/initfetch/META"
+  "_build/install/default/lib/initfetch/dune-package"
+  "_build/install/default/lib/initfetch/opam"
+]
+bin: [
+  "_build/install/default/bin/initfetch"
+]

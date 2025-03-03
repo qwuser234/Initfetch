@@ -4,9 +4,9 @@
 
 (generate_opam_files true)
 
-;(source
-; (github username/reponame)
-;)
+(source
+ (github qwuser234/Initfetch)
+)
 
 (authors "Andriy R. <qwrocket39@gmail.com>")
 
